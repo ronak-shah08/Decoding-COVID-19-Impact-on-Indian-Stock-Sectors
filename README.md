@@ -9,7 +9,7 @@ This repository presents a comprehensive event study analyzing the effects of th
 - Provide insights for investors, analysts, and policymakers
 
 ### Methodology
-- **Data Sources:** Stock price data collected from Yahoo Finance and NSE
+- **Data Sources:** Stock price data collected from [Yahoo Finance][Yahoo] and [NSE][NSE]
 - **Event Date:** March 31, 2020 (marking the onset of market reactions to COVID-19)
 - **Sample:** Top 5 companies by market capitalization from 11 NIFTY sectors (55 companies total)
 - **Analysis Metrics:** Stock Returns, Market Returns, Abnormal Returns, Cumulative Abnormal Returns (CAR)
@@ -22,9 +22,9 @@ This repository presents a comprehensive event study analyzing the effects of th
 - Detailed sector-specific insights are provided in the full report
 
 ### Repository Contents
-1. Final project report (PDF)
-2. Data analysis file (Excel)
-3. Data Visualizations file (Excel)
+1. Final project report [(PDF)][PDF]
+2. Data Analysis file [(Excel)][Excel1]
+3. Data Visualizations file [(Excel)][Excel2]
 
 ### Sectors Analyzed
 1. Banking
@@ -53,3 +53,16 @@ This repository presents a comprehensive event study analyzing the effects of th
 - Cross-country analysis of stock market impacts
 - Inclusion of additional financial instruments (e.g., cryptocurrencies, NFTs)
 - Long-term study of market recovery patterns post-pandemic
+
+
+
+
+
+
+
+
+[Yahoo]: https://finance.yahoo.com/
+[NSE]: https://www.nseindia.com/
+[PDF]: https://github.com/ronak-shah08/Decoding-COVID-19-Impact-on-Indian-Stock-Sectors/blob/main/COVID-19_Impact_Indian_Stock_Market_Sectors.pdf
+[Excel1]: https://github.com/ronak-shah08/Decoding-COVID-19-Impact-on-Indian-Stock-Sectors/blob/main/Data%20Analysis%20File.xlsx
+[Excel2]: https://github.com/ronak-shah08/Decoding-COVID-19-Impact-on-Indian-Stock-Sectors/blob/main/Data%20Visualizations%20File.xlsx
